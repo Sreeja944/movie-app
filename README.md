@@ -1,6 +1,6 @@
 ## 🎦 Movie Website
 
-A responsive e-commerce website built using HTML, CSS.
+A responsive movie website built using HTML, CSS.
 
 ### Features
 - Responsive design
